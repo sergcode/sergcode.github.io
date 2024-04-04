@@ -579,15 +579,9 @@ h5.subtitle {
   bottom: 0;
   left: 0;
   margin: auto;
-  width: 10px;
-  height: 6.17px;
+  width: 6.59px;
+  height: 11.17px;
   vertical-align: middle;
-}
-@media screen and (min-width: 428px) {
-  .frequently-asked-questions .owl-theme .owl-nav button svg {
-    width: 6.59px;
-    height: 11.17px;
-  }
 }
 .frequently-asked-questions .owl-theme .owl-nav button.owl-prev,
 .frequently-asked-questions .owl-theme .owl-nav button.owl-next {
@@ -929,4 +923,3 @@ h5.subtitle {
 .where-does-the-delivery-work__btn-group .item_green button span {
   padding-right: 2px;
 }
-/*# sourceMappingURL=../css/style.css.map */
