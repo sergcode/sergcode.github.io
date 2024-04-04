@@ -576,9 +576,6 @@ h5.subtitle {
   left: 0;
   margin-left: -1px;
 }
-.frequently-asked-questions .owl-theme .owl-nav button.owl-prev svg {
-  transform: rotate(-180deg);
-}
 .frequently-asked-questions .owl-theme .owl-nav button.owl-next {
   right: 0;
   margin-right: -1px;
@@ -632,16 +629,12 @@ h5.subtitle {
 }
 .frequently-asked-questions .item__subtitle {
   width: 100%;
+  float: left;
   font-size: 15px;
   font-family: "MuseoSansCyrl-500", sans-serif;
   font-weight: 400;
   line-height: 21px;
   color: #949494;
-}
-@media screen and (max-width: 640px) {
-  .frequently-asked-questions .item__subtitle {
-    float: left;
-  }
 }
 .frequently-asked-questions .item__text-group {
   float: left;
