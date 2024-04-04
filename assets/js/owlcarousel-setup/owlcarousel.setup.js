@@ -26,10 +26,13 @@ $(document).ready(function() {
             0:{
                 items: 1
             },
-            600:{
+            500:{
+                items: 2
+            },
+            640:{
                 items: 3
             },
-            1000:{
+            1045:{
                 items: 4
             }
         }
