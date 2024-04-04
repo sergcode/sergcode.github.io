@@ -498,10 +498,12 @@ h5.subtitle {
 }
 .frequently-asked-questions .owl-carousel .owl-item {
   opacity: 0;
+  pointer-events: none;
   transition: opacity 0.3s ease;
 }
 .frequently-asked-questions .owl-carousel .owl-item.active {
   opacity: 1;
+  pointer-events: auto;
 }
 .frequently-asked-questions .owl-theme .owl-nav {
   z-index: 999;
