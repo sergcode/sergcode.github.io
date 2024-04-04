@@ -14,7 +14,7 @@ $(document).ready(function() {
         mouseDrag: false,
         smartSpeed: 1000,
         touchDrag: true,
-        autoplay: false,
+        autoplay: true,
         autoplayTimeout: 6000,
         autoplayHoverPause: true,
         responsive: {

@@ -309,6 +309,7 @@ h5.subtitle {
   line-height: 18px;
   text-align: center;
   vertical-align: middle;
+  color: #1A1A1A;
 }
 .support-is-here__btn-group button svg, .support-is-here__btn-group a svg {
   margin-right: 8px;
